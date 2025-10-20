@@ -4,3 +4,4 @@ beautifulsoup4
 pymongo
 flask-cors
 gunicorn
+python-dotenv
